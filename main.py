@@ -16,7 +16,6 @@ app.mainloop()
 
 '''
 
-from Formulario import *
 from Practica1 import *
 
 #form = Formulario()
